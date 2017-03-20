@@ -16,10 +16,10 @@ Here is a work flow of how the plugins work.(`PortScan` is taken as an example).
 
 Comments：
 
-1. The flow is odered by time from top to buttom.
+1. The flow is ordered by time from top to button.
 2. Just omit `step 4` and `step 5` if there's no need to interactive with users, such as a plugin named `phpinfo`.
 3. UI is created on `Step 4`. However you can choose any UI as you like. `dhtmlx` is RECOMMENDED to keep the same UI style.
-4. `Step 7` and `step 8` is about HTTP request and reponse. If you do it all the time if you have to.
-5. The communication between the core and plugins could be templated code, such as `phpinfo`, or operation on webshells(such as `CopyShell`)
+4. `Step 7` and `step 8` is about HTTP request and response. If you do it all the time if you have to.
+5. The communication between the core and plugins could be template code, such as `phpinfo`, or operation on webshells(such as `CopyShell`)
 
 [img_introduce_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/plugin_dev/introduce_1.png
