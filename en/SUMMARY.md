@@ -30,7 +30,6 @@
     * [Introduction](plugin_dev/introduce.md)
     * [Source Files](plugin_dev/source_files.md)
     * [Create A Plugin](plugin_dev/create.md)
-    * [Call Modules](plugin_dev/call_module.md)
     * [Debug](plugin_dev/debug.md)
     * [Release A Plugin](plugin_dev/deploy.md)
 * [Develop The Core Framework](core_dev/README.md)
