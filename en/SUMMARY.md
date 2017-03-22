@@ -32,6 +32,7 @@
     * [Create A Plugin](plugin_dev/create.md)
     * [Debug](plugin_dev/debug.md)
     * [Release A Plugin](plugin_dev/deploy.md)
+    * [Arguments](plugin_dev/api.md)
 * [Develop The Core Framework](core_dev/README.md)
     * [Language](core_dev/language/README.md)
         * [Introduction](core_dev/language/introduce.md)
